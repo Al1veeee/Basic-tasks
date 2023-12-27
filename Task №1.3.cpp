@@ -5,7 +5,7 @@ int main()
 {
 	float b, c;
 	cout << "Enter B and C" << "\n";
-	if (!(cin >> b >> c)) {
+	if (!(cin >> b >> c)) { //Защита на ввод
 		cout << "Error! Use numbers only." << endl;
 		return 0;
 	}
