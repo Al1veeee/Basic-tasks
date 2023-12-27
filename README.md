@@ -8,3 +8,4 @@ and, if possible, the quotient of one divided by the other.
 5) The room is light if it is day outside and the curtains are open, or if
 lamp is on. This program should depend on the time of day and the condition of the lamp and curtains,
 I will be asked if it is light in the room.
+![image](https://github.com/Al1veeee/Homework-1/assets/145188607/a0927af4-4918-4f7f-97e4-34cfb343030d)
